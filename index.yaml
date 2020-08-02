@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2020-08-02T08:59:24.179542+05:30"
+entries:
+  test-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-08-02T09:03:48.308166+05:30"
+    description: A Helm chart to test on github
+    digest: 83cf33d755277bde27e87f2782d44bf83876cc4eb05c56ba8079c33981fea78e
+    name: test-chart
+    type: application
+    urls:
+    - test-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-08-02T09:03:48.306588+05:30"
