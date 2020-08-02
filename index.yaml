@@ -3,9 +3,9 @@ entries:
   shashi-chart:
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2020-08-02T10:22:43.843421+05:30"
+    created: "2020-08-02T10:33:18.487897+05:30"
     description: A pushed Helm chart for Kubernetes plus added dependency chart
-    digest: 8d75dbe9fa89246130eb5464fc7f3c342f55d461cd6aaded32711342598bf75a
+    digest: 1bad841cae4e27f8e443e9153ad7ed0999fff64bb03a5fc57007adb332966cdd
     name: shashi-chart
     type: application
     urls:
@@ -14,7 +14,7 @@ entries:
   test-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-02T10:22:43.844788+05:30"
+    created: "2020-08-02T10:33:18.489239+05:30"
     description: A Helm chart to test on github
     digest: a40a1198a68bf36143a99f341c47644dd8cd401fdc78c6e3ebc9cd348e91d958
     name: test-chart
@@ -24,7 +24,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-02T10:22:43.84415+05:30"
+    created: "2020-08-02T10:33:18.488625+05:30"
     description: A Helm chart to test on github
     digest: 83cf33d755277bde27e87f2782d44bf83876cc4eb05c56ba8079c33981fea78e
     name: test-chart
@@ -32,4 +32,4 @@ entries:
     urls:
     - test-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-08-02T10:22:43.842548+05:30"
+generated: "2020-08-02T10:33:18.486977+05:30"
