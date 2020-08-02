@@ -3,13 +3,13 @@ entries:
   shashi-chart:
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2020-08-02T10:45:58.097265+05:30"
+    created: "2020-08-02T10:56:25.217779+05:30"
     dependencies:
     - name: redis
       repository: https://kubernetes-charts.storage.googleapis.com
       version: 10.5.7
     description: added pre-install hooks
-    digest: dc4226f2927b10771d7dce36920b4bb1f0e572a8467e0c79d7815f7afd821d33
+    digest: 1d1596b7d65ca0fea46efe47a4b957da2bb8159592648eb659324fb9c5340b82
     name: shashi-chart
     type: application
     urls:
@@ -17,7 +17,7 @@ entries:
     version: 2.2.2
   - apiVersion: v2
     appVersion: 1.16.1
-    created: "2020-08-02T10:45:58.091811+05:30"
+    created: "2020-08-02T10:56:25.211966+05:30"
     description: A pushed Helm chart for Kubernetes plus added dependency chart
     digest: 1bad841cae4e27f8e443e9153ad7ed0999fff64bb03a5fc57007adb332966cdd
     name: shashi-chart
@@ -28,7 +28,7 @@ entries:
   test-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-02T10:45:58.098597+05:30"
+    created: "2020-08-02T10:56:25.2191+05:30"
     description: A Helm chart to test on github
     digest: a40a1198a68bf36143a99f341c47644dd8cd401fdc78c6e3ebc9cd348e91d958
     name: test-chart
@@ -38,7 +38,7 @@ entries:
     version: 1.1.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-08-02T10:45:58.097986+05:30"
+    created: "2020-08-02T10:56:25.218484+05:30"
     description: A Helm chart to test on github
     digest: 83cf33d755277bde27e87f2782d44bf83876cc4eb05c56ba8079c33981fea78e
     name: test-chart
@@ -46,4 +46,4 @@ entries:
     urls:
     - test-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-08-02T10:45:58.090898+05:30"
+generated: "2020-08-02T10:56:25.210943+05:30"
